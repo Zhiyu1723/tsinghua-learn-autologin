@@ -1,0 +1,13 @@
+# 账号与凭据：绝对不要提交
+credentials.dat
+credentials.txt
+credentials*.dat
+credentials*.txt
+!credentials.example.txt
+
+# 运行产生的东西
+*.log
+browser-profile/
+dry-run.png
+login-failed.png
+.vbs.bak
